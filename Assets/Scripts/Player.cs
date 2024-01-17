@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public new Rigidbody2D rigidbody {get; private set;}
+    public new Rigidbody2D rigidbody;
     public Vector2 direction {get; private set;}
     public float speed = 30f;
     public bool GOI = false;
