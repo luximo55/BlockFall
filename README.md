@@ -1,5 +1,5 @@
 # About BlockFall
-BlockFall is a game I made for my programming class. The game graphics and program were made by me.
+BlockFall is a game I made for my programming class.
 
 # Design
 BlockFall has a minimal graphic design reminiscent of old games from the 70s.
